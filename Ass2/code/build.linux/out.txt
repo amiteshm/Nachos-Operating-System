@@ -1,0 +1,2255 @@
++++++++++++++++++++++++++++++++++++++++++++----Epages:0
++++++++++++++++++++++++++++++++++++++++++++----numPages:18
+
+mainis about to yield
+-------------------------Value is :0
++++++++++++++++++++++++++++++++++++++++++++----Epages:640
+
+mainis about to yield
+*****************************************************************************************************
+Total ticks :255
+Idle ticks :0
+System ticks :50
+User ticks :205
+Number of processes on ready list:2
+
+Number of processes are
+process-AmanA:  RUNNING
+process-main:  READY
+*****************************************************************************************************
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+
+AmanAis about to yield
++++++++++++++++++++++++++++++++++++++++++++----Epages:1280
++++++++++++++++++++++++++++++++++++++++++++----Epages:1920
++++++++++++++++++++++++++++++++++++++++++++----Epages:2560
+
+mainis about to yield
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+Process
+############################### : 0
+is Thinking
+
+AmanAis about to yield
+*****************************************************************************************************
+Total ticks :555
+Idle ticks :0
+System ticks :150
+User ticks :405
+Number of processes on ready list:5
+
+Number of processes are
+process-AmanB:  RUNNING
+process-AmanC:  READY
+process-AmanD:  READY
+process-main:  READY
+process-AmanA:  READY
+*****************************************************************************************************
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+*****************************************************************************************************
+Total ticks :655
+Idle ticks :0
+System ticks :170
+User ticks :485
+Number of processes on ready list:5
+
+Number of processes are
+process-AmanC:  RUNNING
+process-AmanD:  READY
+process-main:  READY
+process-AmanA:  READY
+process-AmanB:  READY
+*****************************************************************************************************
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+
+AmanCis about to yield
+*****************************************************************************************************
+Total ticks :755
+Idle ticks :0
+System ticks :190
+User ticks :565
+Number of processes on ready list:5
+
+Number of processes are
+process-AmanD:  RUNNING
+process-main:  READY
+process-AmanA:  READY
+process-AmanB:  READY
+process-AmanC:  READY
+*****************************************************************************************************
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
++++++++++++++++++++++++++++++++++++++++++++----Epages:3200
+------------------------------------------ Exit system call.
+-------------------------Value is :0
+-------------------------Value is :0
+
+AmanDis about to yield
+*****************************************************************************************************
+Total ticks :963
+Idle ticks :0
+System ticks :270
+User ticks :693
+Number of processes on ready list:2
+
+Number of processes are
+process-AmanE:  RUNNING
+process-AmanD:  READY
+*****************************************************************************************************
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+
+AmanEis about to yield
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+Process
+
+AmanEis about to yield
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+############################### : 4
+is Thinking
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+Process
+############################### : 4
+is Hungry
+
+AmanEis about to yield
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+
+AmanCis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+
+AmanBis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+############################### : 2
+is Thinking
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :0
+############################### : 1
+
+AmanBis about to yield
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+Process
+############################### : 4
+
+AmanEis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 1
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+-------------------------Value is :0
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+
+AmanAis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+############################### : 0
+is eating
+Process
+############################### : 0
+is Thinking
+
+AmanDis about to yield
+-------------------------Value is :0
+Process
+############################### : 2
+is eating
+Process
+############################### : 2
+
+AmanCis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanEis about to yield
+-------------------------Value is :0
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 4
+is eating
+Process
+############################### : 4
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 0
+is eating
+Process
+############################### : 0
+is Thinking
+
+AmanBis about to yield
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+-------------------------Value is :0
+Process
+############################### : 4
+is Thinking
+
+AmanCis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+
+AmanCis about to yield
+Process
+############################### : 4
+is eating
+Process
+############################### : 4
+is Thinking
+
+AmanAis about to yield
+-------------------------Value is :0
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 2
+is Thinking
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 2
+
+AmanCis about to yield
+Process
+############################### : 0
+is Thinking
+-------------------------Value is :1
+Process
+
+AmanEis about to yield
+-------------------------Value is :1
+-------------------------Value is :0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+-------------------------Value is :0
+############################### : 4
+is eating
+
+AmanEis about to yield
+Process
+############################### : 4
+is Thinking
+Process
+############################### : 3
+
+AmanDis about to yield
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 2
+is eating
+Process
+############################### : 2
+is Thinking
+
+AmanDis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+Process
+############################### : 4
+is Hungry
+
+AmanEis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :0
+is Thinking
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+Process
+############################### : 2
+is Thinking
+
+AmanAis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+is Thinking
+Process
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 0
+is Hungry
+
+AmanAis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+
+AmanBis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+Process
+############################### : 4
+
+AmanEis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :0
+
+AmanCis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+
+AmanDis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+Process
+############################### : 0
+is eating
+Process
+############################### : 0
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 4
+is Thinking
+-------------------------Value is :0
+Process
+
+AmanAis about to yield
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+-------------------------Value is :0
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 4
+is Thinking
+is Thinking
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+
+AmanDis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 2
+is Thinking
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 0
+is eating
+Process
+############################### : 0
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+is Thinking
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 0
+is Thinking
+-------------------------Value is :1
+Process
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanBis about to yield
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+Process
+############################### : 4
+
+AmanEis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+-------------------------Value is :1
+Process
+
+AmanCis about to yield
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :0
+############################### : 2
+is eating
+
+AmanCis about to yield
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 2
+is Thinking
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+
+AmanEis about to yield
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+
+AmanEis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+############################### : 4
+is eating
+Process
+############################### : 4
+is Thinking
+Process
+
+AmanBis about to yield
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+Process
+############################### : 0
+
+AmanAis about to yield
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+
+AmanBis about to yield
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+Process
+############################### : 2
+
+AmanCis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+Process
+############################### : 0
+is Hungry
+
+AmanAis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 0
+is Thinking
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :0
+Process
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+Process
+############################### : 2
+
+AmanCis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+Process
+############################### : 3
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanAis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 0
+is eating
+Process
+############################### : 0
+is Thinking
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 4
+is Thinking
+
+AmanDis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+Process
+############################### : 2
+
+AmanCis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 3
+is Thinking
+Process
+
+AmanDis about to yield
+Process
+############################### : 0
+is Thinking
+is Thinking
+############################### : 3
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 4
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+Process
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+
+AmanAis about to yield
+############################### : 3
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 2
+is Thinking
+
+AmanBis about to yield
+Process
+############################### : 0
+is Thinking
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+Process
+############################### : 4
+
+AmanEis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+is Thinking
+
+AmanDis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+is Thinking
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanCis about to yield
+Process
+############################### : 0
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 0
+is eating
+
+AmanAis about to yield
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :0
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :0
+
+AmanCis about to yield
+Process
+############################### : 0
+is Thinking
+Process
+############################### : 2
+is eating
+
+AmanCis about to yield
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+Process
+############################### : 1
+
+AmanBis about to yield
+Process
+############################### : 2
+is Thinking
+is Thinking
+Process
+############################### : 1
+
+AmanBis about to yield
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+############################### : 3
+
+AmanDis about to yield
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 4
+is eating
+
+AmanEis about to yield
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 4
+is Thinking
+Process
+############################### : 0
+is Hungry
+
+AmanAis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+
+AmanBis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+
+AmanDis about to yield
+Process
+############################### : 2
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :1
+-------------------------Value is :0
+Process
+############################### : 1
+is eating
+
+AmanBis about to yield
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+############################### : 3
+is eating
+Process
+
+AmanDis about to yield
+Process
+############################### : 1
+is Thinking
+Process
+############################### : 1
+is Hungry
+-------------------------Value is :1
+
+AmanBis about to yield
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+-------------------------Value is :1
+Process
+
+AmanDis about to yield
+-------------------------Value is :0
+Process
+############################### : 4
+is Hungry
+-------------------------Value is :0
+-------------------------Value is :0
+############################### : 3
+is eating
+
+AmanDis about to yield
+Process
+############################### : 3
+is Thinking
+Process
+############################### : 3
+is Hungry
+-------------------------Value is :1
+
+AmanDis about to yield
+-------------------------Value is :0
+-------------------------Value is :0
+No threads ready or runnable, and no pending interrupts.
+Assuming the program completed.
+Machine halting!
+
+Ticks: total 125351, idle 100066, system 9260, user 16025
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
